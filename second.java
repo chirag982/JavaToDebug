@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// BuggyFactorial
+
 public class second {
     public static void Main(String[] args) {
         Scanner sc = new scanner(system.in);
